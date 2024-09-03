@@ -1,4 +1,4 @@
-# Vue Basic Example
+# Vue js Basic Example
 
 ## Project setup
 
